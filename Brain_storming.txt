@@ -1,0 +1,88 @@
+Grading system
+--------------------------------
+
+Users:
+--------
+1. Admin
+2. Academic director
+3. Tutors
+4. Lecturers
+5. Students
+
+
+Roles of Users:
+------------------------------------------
+
+Adim
+----------------
+   Will have access to all parts of the system 
+
+Academic director
+-----------------
+   Will have access to all parts of the program
+
+
+Head Tutor & Assistant
+------------
+  Have all roles as other Tutor
+  Invite other tutors to mark assignments
+  Create assignment submission page
+  Invite students to upload completed assignments
+  Can assign roles to other tutors
+
+Tutors
+-----------------
+   Will have access to grading and recording marks
+   Will be able to mark only one question at a time and must complete it.
+   Cannot grade a question another tutor has started.
+   This will alllow a fair grading for all the students.
+
+   Comments can be added to the the graded pages
+   Annotate or whatever ...
+   
+
+Lectures
+----------
+
+   
+Students
+-----------------
+   Will upload their assignments
+   Register with the course
+
+
+
+
+
+Pages
+-------
+ Admin page
+ Academic diector page
+ Tutors page
+ Lectures page
+ Students page.
+
+
+Page Contrent
+----------------------------------------------------
+
+  Admin Page Content
+----------------------
+
+
+  Academic Director pg Content
+--------------------
+
+
+ Tutors pg Content
+----------------------
+
+
+ Student pg Content
+---------------------
+
+ 
+ Lectures pg content
+----------------------
+
+
